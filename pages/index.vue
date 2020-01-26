@@ -1,7 +1,7 @@
 <template>
-  <div class="container mx-auto p-2">
+  <div class="container mt-8">
 
-    <div class="flex flex-wrap -mx-2 mt-8 sm:mt-10 md:mt-16 lg:mt-16 xl:mt-16 overflow-hidden sm:-mx-4">
+    <div class="flex flex-wrap -mx-2 overflow-hidden sm:-mx-4">
       <div class="my-2 px-2 w-full overflow-hidden sm:my-2 sm:px-2 md:w-1/2 lg:w-1/2 xl:w-1/2">
         <h1 class="text-5xl z-10 font-heading">Herzlich Willkommen</h1>
         <img class="-mt-4 z-0" src="~/assets/img/underline.png"/>

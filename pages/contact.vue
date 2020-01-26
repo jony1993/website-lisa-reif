@@ -1,5 +1,5 @@
 <template>
-    <div class="container mx-auto p-2">
+    <div class="container mt-8">
       <h1>Kontakt</h1>
     </div>
 </template>

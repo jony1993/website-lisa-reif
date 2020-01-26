@@ -6,6 +6,10 @@
 */
 module.exports = {
   theme: {
+    container: {
+      center: true,
+      padding: '2rem'
+    },
     colors: {
       transparent: 'transparent',
       black: '#000',
