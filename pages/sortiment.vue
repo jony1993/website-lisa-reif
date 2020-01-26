@@ -57,7 +57,7 @@
       <p>Hier unterscheidet man zwischen elastischen und gewebten Tragetüchern. Die elastischen Tragetücher sind sehr
         kuschelig und passen sich perfekt an das Baby und den Tragenden an. Besonders kleine Babys fühlen sich in einem
         elastischen Tuch ganz besonders geborgen.</p>
-      <p class="mt-4">Bei den gewebten Tragetüchern sorgt die spezielle Webtechnik dafür, dassauch diese Tücher ein
+      <p class="mt-4">Bei den gewebten Tragetüchern sorgt die spezielle Webtechnik dafür, dass auch diese Tücher ein
         Stück weit flexibel sind. Man spricht hier von diagonalelastisch bzw. querelastisch. Mit einem gewebten
         Tragetuch kann man auch schwerere Kinder sehr gut tragen.</p>
       <p class="font-bold mt-4">Mein Sortiment:</p>
@@ -103,7 +103,7 @@
     <section id="ringsling" class="mt-16 font-body text-gray-700">
       <h2 class="text-4xl mb-2">Ringsling</h2>
       <p> Der Ringsling ist aus Tragetuchstoff, der mit zwei Ringen versehen ist. Die Belastung hier ist jedoch
-        einseitig und somit eher für zwischendurch geeignet. Vorteil hier ist das schnelle Anlegen</p>
+        einseitig und somit eher für zwischendurch geeignet. Vorteil hier ist das schnelle Anlegen.</p>
     </section>
   </div>
 </template>

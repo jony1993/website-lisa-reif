@@ -10,8 +10,8 @@
       <div class="my-4 px-4 pb-2 w-full overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
         <div class="flex flex-col mx-1 p-4 h-full bg-white shadow-md rounded-lg text-center">
           <h2 class="text-2xl mb-2 font-bold">Einzelberatung</h2>
-          <p>38€ für die erste Stunde, dann Abrechnung nach angefangener Viertelstunde für 9,50€.</p>
-          <p class="flex-grow">In der Regel dauert eine Erstberatung zwischen 1,5 und 2 Stunden.Der Preis für die Einzelberatung
+          <p>38 € für die erste Stunde, dann Abrechnung nach angefangener Viertelstunde für 9,50€.</p>
+          <p class="flex-grow">In der Regel dauert eine Erstberatung zwischen 1,5 und 2 Stunden. Der Preis für die Einzelberatung
             beinhaltet selbstverständlich auch die Anwesenheit eures Partners oder einer engen Bezugsperson.</p>
           <nuxt-link class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg" to="/kontakt">Kontakt aufnehmen</nuxt-link>
         </div>
@@ -44,11 +44,11 @@
       fühlst, trägst du dein Baby.
     </p>
     <p class="mt-4 text-gray-700 font-body">
-      Nachberatung per Whatsapp oder E-Mail kostenlos. Ab 5 Kilometern Entfernung fallen Fahrtkosten in Höhe von 0,30€
+      Nachberatung per Whatsapp oder E-Mail kostenlos. Ab 5 Kilometern Entfernung fallen Fahrtkosten in Höhe von 0,30 €
       pro Kilometer an. Berechnungsgrundlage ist Google Maps.
     </p>
     <p class="my-4 text-gray-700 font-body">
-      Verleih von Tragehilfen bzw. Tragetüchern jederzeit für 10€ pro Woche möglich. Die geliehenen Tragen/Tücher müssen
+      Verleih von Tragehilfen bzw. Tragetüchern jederzeit für 10 € pro Woche möglich. Die geliehenen Tragen/Tücher müssen
     </p>
   </div>
 </template>
