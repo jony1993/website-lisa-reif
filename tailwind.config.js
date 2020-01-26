@@ -8,11 +8,11 @@ module.exports = {
   theme: {
     colors: {
       transparent: 'transparent',
-
       black: '#000',
       white: '#fff',
       footer: '#EEEEEE',
       background: '#F3F3F5',
+      primary: '#6ECBB2',
 
       gray: {
         100: '#f7fafc',
