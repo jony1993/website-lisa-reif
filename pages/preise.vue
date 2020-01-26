@@ -7,8 +7,8 @@
     <!--Price boxes-->
     <div class="mt-4 flex flex-wrap -mx-4 overflow-hidden text-gray-700 font-body">
 
-      <div class="my-4 px-4 w-full overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
-        <div class="flex flex-col mx-1 p-4 h-full bg-white shadow-md rounded text-center">
+      <div class="my-4 px-4 pb-2 w-full overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
+        <div class="flex flex-col mx-1 p-4 h-full bg-white shadow-md rounded-lg text-center">
           <h2 class="text-2xl mb-2 font-bold">Einzelberatung</h2>
           <p>38€ für die erste Stunde, dann Abrechnung nach angefangener Viertelstunde für 9,50€.</p>
           <p class="flex-grow">In der Regel dauert eine Erstberatung zwischen 1,5 und 2 Stunden.Der Preis für die Einzelberatung
@@ -17,16 +17,16 @@
         </div>
       </div>
 
-      <div class="my-4 px-4 w-full overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
-        <div class="flex flex-col mx-1 p-4 h-full bg-white shadow-md rounded text-center">
+      <div class="my-4 px-4 pb-2 w-full overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
+        <div class="flex flex-col mx-1 p-4 h-full bg-white shadow-md rounded-lg text-center">
           <h2 class="text-2xl mb-2 font-bold">Gruppenberatung</h2>
           <p class="flex-grow">Preise auf Anfrage. Ich erstelle dir gerne ein individuelles Angebot.</p>
           <nuxt-link class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg " to="/kontakt">Kontakt aufnehmen</nuxt-link>
         </div>
       </div>
 
-      <div class="my-4 px-4 w-full overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
-        <div class="flex flex-col mx-1 p-4 h-full bg-white shadow-md rounded text-center">
+      <div class="my-4 px-4 pb-2 w-full overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
+        <div class="flex flex-col mx-1 p-4 h-full bg-white shadow-md rounded-lg text-center">
           <h2 class="text-2xl mb-2 font-bold">Gutscheine</h2>
           <p class="flex-grow">Du kannst selbstverständlich auch einen Gutschein bei mir kaufen. Ein super Geschenk zur Geburt oder
             Babyparty!</p>
@@ -36,7 +36,7 @@
 
     </div>
 
-    <p class="mt-16 text-gray-700 font-body">
+    <p class="mt-12 text-gray-700 font-body">
       Beratung für Schwangere: Gerne kannst du dich auch schon während der Schwangerschaft über das Tragen informieren.
       In einem Beratungsgespräch zeige ich dir die verschiedenen Tragehilfen und Tragetücher. Sofern möglich und
       gewünscht, kannst du das Anlegen bzw. Binden mit Puppe üben. Das zweite Gespräch findet dann statt, wenn dein Baby

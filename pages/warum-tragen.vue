@@ -48,7 +48,7 @@
     </div>
 
     <!--CTA-->
-    <div class="mt-16 bg-white shadow-md rounded p-8 mx-auto text-center text-gray-700 font-body">
+    <div class="mt-16 bg-white shadow-md rounded-lg p-8 mx-auto text-center text-gray-700 font-body">
       <p>Klingt das interessant für dich? Dann kannst du gerne Kontakt mit mir aufnehmen:</p>
       <nuxt-link class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg " to="/kontakt"> Kontakt aufnehmen</nuxt-link>
     </div>
