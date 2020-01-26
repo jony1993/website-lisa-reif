@@ -28,9 +28,9 @@
         </div>
 
         <div class="order-1 md:order-2 lg:order-2 xl:order-2 my-1 sm:pl-8 md:pl-8 lg:pl-8 xl:pl-8 w-full overflow-hidden md:w-1/2 lg:w-1/2 xl:w-1/2 text-left">
-          <p class="mb-4">4. Das Baby kann überall mit dabei sein und die Welt zusammen mit dir erkunden. Wenn es ihm zu viel wird, kann es sich einfach an dich kuschelnund schlafen.</p>
+          <p class="mb-4">4. Das Baby kann überall mit dabei sein und die Welt zusammen mit dir erkunden. Wenn es ihm zu viel wird, kann es sich einfach an dich kuscheln und schlafen.</p>
           <p class="mb-4">5. Du hast beide Hände frei für ältere Geschwister oder den Haushalt.</p>
-          <p class="mb-4">6. Du kannst dein Baby überall mitnehmen und musst nicht darauf achten,ob der Weg für den Kinderwagen geeignet ist. Treppen oder Berge sind kein Problem mehr.</p>
+          <p class="mb-4">6. Du kannst dein Baby überall mitnehmen und musst nicht darauf achten, ob der Weg für den Kinderwagen geeignet ist. Treppen oder Berge sind kein Problem mehr.</p>
         </div>
 
       </div>
