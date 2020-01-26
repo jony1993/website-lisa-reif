@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     container: {
       center: true,
-      padding: '2rem'
+      padding: '1.2rem'
     },
     colors: {
       transparent: 'transparent',
@@ -17,7 +17,6 @@ module.exports = {
       footer: '#EEEEEE',
       background: '#F3F3F5',
       primary: '#6ECBB2',
-
       gray: {
         100: '#f7fafc',
         200: '#edf2f7',
@@ -128,6 +127,12 @@ module.exports = {
         800: '#97266d',
         900: '#702459',
       },
+    },
+    inset: {
+      '0': '0',
+      auto: 'auto',
+      '8' : '2rem',
+      '16' : '4rem'
     },
     fontFamily: {
       sans: [
