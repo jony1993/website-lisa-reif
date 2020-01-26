@@ -1,7 +1,7 @@
 {
   "name": "lisareif",
   "version": "1.0.0",
-  "description": "Website for Lisa Reif Trageberatung",
+  "description": "Trageberatung im Landkreis Dingolfing-Landau und Straubing-Bogen",
   "author": "Jonas Reif",
   "private": true,
   "scripts": {

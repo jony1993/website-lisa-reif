@@ -1,3 +1,10 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: 'Signatura';
+  src: url('~assets/fonts/Signatura.ttf') format('truetype'),
+  url('~assets/fonts/Signatura.otf') format('otf');
+}
+

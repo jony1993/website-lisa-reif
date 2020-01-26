@@ -1,77 +1,34 @@
 <template>
-  <div class="container">
-    <div>
-      <logo />
-      <h1 class="title">
-        lisareif
-      </h1>
-      <h2 class="subtitle">
-        Website for Lisa Reif Trageberatung
-      </h2>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-        >
-          GitHub
-        </a>
+  <div class="container mx-auto p-2">
+
+    <div class="flex flex-wrap -mx-2 mt-8 sm:mt-10 md:mt-16 lg:mt-16 xl:mt-16 overflow-hidden sm:-mx-4">
+      <div class="my-2 px-2 w-full overflow-hidden sm:my-2 sm:px-2 md:w-1/2 lg:w-1/2 xl:w-1/2">
+        <h1 class="text-5xl z-10 font-heading">Herzlich Willkommen</h1>
+        <img class="-mt-4 z-0" src="~/assets/img/underline.png"/>
+        <div class="mt-4 text-gray-700 font-body">
+          <p>Trageberatung im Landkreis Dingolfing-Landau und Straubing-Bogen</p>
+          <p> Du willst dein Baby oder Kleinkind tragen und bist auf der Suche nach einer passenden Tragehilfe? </p>
+          <p>Du hast bereits ein Tragetuch oder eine Tragehilfe, aber kommst nicht damit zurecht?</p>
+          <p>Dann melde dich bei mir und wir finden gemeinsam in einer persönlichen Beratung die für Dich bzw. Euch perfekte
+            Tragehilfe.</p>
+          <br>
+          <br>
+
+          <p>Diese Website wird aktuell überarbeitet. Schau gerne in einer Woche wieder vorbei :)</p>
+        </div>
+      </div>
+
+      <div class="my-2 px-2 w-full overflow-hidden sm:my-2 sm:px-2 md:w-1/2 lg:w-1/2 xl:w-1/2">
+        <img class="rounded-lg shadow-md" src="~/assets/img/lisa.png" alt="Bild von Lisa mit Tragetuch">
       </div>
     </div>
   </div>
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
 
-export default {
-  components: {
-    Logo
-  }
-}
+  export default {}
 </script>
 
 <style>
-/* Sample `apply` at-rules with Tailwind CSS
-.container {
-  @apply min-h-screen flex justify-center items-center text-center mx-auto;
-}
-*/
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
-}
 </style>
