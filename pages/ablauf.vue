@@ -7,9 +7,9 @@
     <!--Content-->
     <div class="flex flex-wrap -mx-3 overflow-hidden mt-4 text-gray-700 font-body">
 
-      <div class="my-3 px-3 w-full overflow-hidden md:w-1/2 lg:w-1/2 xl:w-1/2">
+      <div class="my-3 mb-2 order-2 px-3 w-full overflow-hidden md:w-1/2 lg:w-1/2 xl:w-1/2">
         <!-- Column Content -->
-        <img class="rounded-lg shadow-md" src="~/assets/img/lisa.png">
+        <img class="rounded-lg shadow-md" src="~/assets/img/tragetuch_ablauf_1.jpg">
       </div>
 
       <div class="my-3 px-3 w-full overflow-hidden md:w-1/2 lg:w-1/2 xl:w-1/2">
@@ -36,7 +36,7 @@
             leihweise für ein paar Tage, bis du dir deine Trage bzw. Tuch bestellt hast. Der Preis für den Verleih liegt
             bei 10 € pro Woche.</p>
         </div>
-        <div class="bg-white rounded-lg shadow-md p-2 mt-4">
+        <div class="bg-white rounded-lg shadow-md p-2 mt-4 mb-2">
           <h2 class="text-xl font-bold">3. Nachberatung</h2>
           <p>Du erhältst nach unserem Gespräch noch eine E-Mail von mir. Darin findest du u. A. nochmals Videos, wie die
             Trage richtig anzulegen ist. Außerdem erhältst du noch ein paar allgemeine Infos über das Tragen.

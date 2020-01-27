@@ -14,7 +14,7 @@
         </p>
       </div>
       <div class="my-2 px-2 w-full overflow-hidden sm:w-1/2 md:w-1/2 lg:w-1/2 xl:w-1/2">
-        <img class="shadow-md rounded-lg" src="~/assets/img/lisa.png">
+        <img class="shadow-md rounded-lg" src="~/assets/img/lisa2.jpg">
       </div>
 
     </div>

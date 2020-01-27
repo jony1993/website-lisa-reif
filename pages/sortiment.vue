@@ -11,7 +11,7 @@
 
       <div class="my-3 px-3 w-full overflow-hidden sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4">
         <div class="">
-          <img class="rounded-lg shadow-md" src="~/assets/img/lisa.png">
+          <img class="rounded-lg shadow-md" src="~/assets/img/tragetuch_sortiment.jpg">
           <h2 class="text-xl font-bold mt-4">Tragetücher</h2>
           <a href="#tragetuecher" class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg ">
             Mehr Infos >>
@@ -21,7 +21,7 @@
 
       <div class="my-3 px-3 w-full overflow-hidden sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4">
         <div class="">
-          <img class="rounded-lg  shadow-md" src="~/assets/img/lisa.png">
+          <img class="rounded-lg  shadow-md" src="~/assets/img/halfbuckle_sortiment.jpg">
           <h2 class="text-xl font-bold mt-4">Halfbuckle</h2>
           <a href="#halfbuckle" class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg ">
             Mehr Infos >>
@@ -31,7 +31,7 @@
 
       <div class="my-3 px-3 w-full overflow-hidden sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4">
         <div class="">
-          <img class="rounded-lg shadow-md" src="~/assets/img/lisa.png">
+          <img class="rounded-lg shadow-md" src="~/assets/img/fullbuckle_sortiment.jpg">
           <h2 class="text-xl font-bold mt-4">Fullbuckle</h2>
           <a href="#fullbuckle" class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg ">
             Mehr Infos >>
@@ -41,7 +41,7 @@
 
       <div class="my-3 px-3 w-full overflow-hidden sm:w-1/2 md:w-1/4 lg:w-1/4 xl:w-1/4">
         <div class="">
-          <img class="rounded-lg shadow-md" src="~/assets/img/lisa.png">
+          <img class="rounded-lg shadow-md" src="~/assets/img/ringsling_sortiment.jpg">
           <h2 class="text-xl font-bold mt-4">Ringsling</h2>
           <a href="#ringsling" class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg ">
             Mehr Infos >>
@@ -62,9 +62,8 @@
         Tragetuch kann man auch schwerere Kinder sehr gut tragen.</p>
       <p class="font-bold mt-4">Mein Sortiment:</p>
       <ul>
-        <li>Elastisch: Izmi, Hoppediz</li>
-        <li>Gewebt: Didymos, Hoppediz</li>
-        <li>Ringsling: Limas, Fidella, Didymos</li>
+        <li>Elastisch: Izmi, Hoppediz, Schmusewolke</li>
+        <li>Gewebt: Didymos, Hoppediz, Fidella</li>
       </ul>
     </section>
 
@@ -77,9 +76,10 @@
       <p class="font-bold mt-4">Mein Sortiment:</p>
       <ul>
         <li>Limas</li>
-        <li>Limas Pus</li>
-        <li>Cybex Yema.ties</li>
-        <li>MySol Giraso</li>
+        <li>Limas Plus</li>
+        <li>Cybex Yema.Tie</li>
+        <li>MySol Girasol</li>
+        <li>Fidella FlyTai</li>
       </ul>
     </section>
 
@@ -93,6 +93,7 @@
       <ul>
         <li>Limas Flex</li>
         <li>Kokadi Flip</li>
+        <li>Fidella Fusion</li>
         <li>Ruckeli Slim</li>
         <li>Manduca First</li>
       </ul>
@@ -104,6 +105,9 @@
       <h2 class="text-4xl mb-2">Ringsling</h2>
       <p> Der Ringsling ist aus Tragetuchstoff, der mit zwei Ringen versehen ist. Die Belastung hier ist jedoch
         einseitig und somit eher für zwischendurch geeignet. Vorteil hier ist das schnelle Anlegen.</p>
+      <ul>
+        <li>Ringsling: Limas, Fidella, Schmusewolke, Didymos</li>
+      </ul>
     </section>
   </div>
 </template>
