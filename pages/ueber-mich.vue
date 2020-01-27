@@ -24,6 +24,11 @@
 <script>
 	export default {
 		name: 'ueber-mich',
+    head () {
+      return {
+        title: "Über mich - Trageberatung Lisa Reif"
+      }
+    }
 	}
 </script>
 

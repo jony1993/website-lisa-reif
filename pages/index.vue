@@ -11,10 +11,6 @@
           <p class="mt-4">Du hast bereits ein Tragetuch oder eine Tragehilfe, aber kommst nicht damit zurecht?</p>
           <p class="mt-4">Dann melde dich bei mir und wir finden gemeinsam in einer persönlichen Beratung die für Dich bzw. Euch perfekte
             Tragehilfe.</p>
-          <br>
-          <br>
-
-          <p>Diese Website wird aktuell überarbeitet. Schau gerne in einer Woche wieder vorbei :)</p>
         </div>
       </div>
 
@@ -27,7 +23,13 @@
 
 <script>
 
-  export default {}
+  export default {
+    head () {
+      return {
+        title: "Trageberatung Lisa Reif - Trageberatung im Landkreis Dingolfing-Landau und Straubing-Bogen"
+      }
+    }
+  }
 </script>
 
 <style>

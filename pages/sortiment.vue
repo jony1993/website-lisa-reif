@@ -115,6 +115,11 @@
 <script>
   export default {
     name: 'sortiment',
+    head () {
+      return {
+        title: "Sortiment - Trageberatung Lisa Reif"
+      }
+    }
   }
 </script>
 

@@ -60,7 +60,12 @@
 
 <script>
   export default {
-    name: 'imprint',
+    name: 'impressum',
+    head () {
+      return {
+        title: "Impressum - Trageberatung Lisa Reif"
+      }
+    }
   }
 </script>
 

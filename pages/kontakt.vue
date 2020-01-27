@@ -28,6 +28,11 @@
 <script>
   export default {
     name: 'kontakt',
+    head () {
+      return {
+        title: "Kontakt - Trageberatung Lisa Reif"
+      }
+    }
   }
 </script>
 

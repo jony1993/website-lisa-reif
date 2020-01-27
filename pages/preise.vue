@@ -56,6 +56,11 @@
 <script>
   export default {
     name: 'preise',
+    head () {
+      return {
+        title: "Preise - Trageberatung Lisa Reif"
+      }
+    }
   }
 </script>
 

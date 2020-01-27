@@ -224,6 +224,11 @@
 <script>
   export default {
     name: 'privacy',
+    head () {
+      return {
+        title: "Datenschutz - Trageberatung Lisa Reif"
+      }
+    }
   }
 </script>
 

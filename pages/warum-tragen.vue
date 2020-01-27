@@ -61,6 +61,11 @@
 <script>
 	export default {
 		name: 'warum-tragen',
+    head () {
+      return {
+        title: "Warum Tragen? - Trageberatung Lisa Reif"
+      }
+    }
 	}
 </script>
 
