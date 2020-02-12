@@ -22,7 +22,7 @@
       </div>
 
       <!--Reason 4, 5, 6-->
-      <div class="flex flex-wrap items-center -mx-1 overflow-hidden mt-16">
+      <div class="flex flex-wrap items-center -mx-1 overflow-hidden mt-4 sm:mt-16">
 
         <div class="order-2 pb-2 md:order-1 lg:order-1 xl:order-1 my-1 px-1 w-full overflow-hidden md:w-1/2 lg:w-1/2 xl:w-1/2">
           <img class="bg-gray-200 rounded shadow-md" src="~/assets/img/tragetuch_warum_2.jpg" alt="Tragetuch Bauch">
@@ -36,7 +36,7 @@
 
       </div>
       <!--Reason 7, 8, 9-->
-      <div class="flex flex-wrap items-center -mx-1 overflow-hidden mt-16">
+      <div class="flex flex-wrap items-center -mx-1 overflow-hidden mt-4 sm:mt-16">
 
         <div class="my-1 sm:pr-8 md:pr-8 lg:pr-8 xl:pr-8 w-full overflow-hidden md:w-1/2 lg:w-1/2 xl:w-1/2 text-left">
           <p class="mb-4">7. Du kannst dein Baby unauffällig in der Tragehilfe/Tragetuch stillen.</p>

@@ -1,12 +1,12 @@
 <template>
   <nav class="bg-white shadow font-body text-gray-700" role="navigation">
-    <div class="container mx-auto p-4 flex flex-wrap items-center lg:flex-no-wrap">
-      <div class="mr-4 md:mr-8">
+    <div class="container flex flex-wrap items-center justify-center lg:flex-no-wrap mx-auto p-4 pt-2 pb-2 relative">
+      <div>
         <nuxt-link to="/">
-          <img class="h-20 sm:h-32 md:h-32 lg:h-32 xl:h-32" src="../assets/img/logo.png">
+          <img class="h-24 sm:h-32 md:h-32 lg:h-32 xl:h-32" src="../assets/img/logo.png">
         </nuxt-link>
       </div>
-      <div class="ml-auto lg:hidden" @click="open= !open">
+      <div class="absolute right-0 mr-4 top-8 sm:top-12 lg:hidden" @click="open= !open">
         <button class="flex items-center px-3 py-2 rounded" type="button">
           <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
             <title>Menu</title>
@@ -61,7 +61,7 @@
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/trageberatung_lisa_reif/?hl=de" target="_blank">
+            <a href="https://www.facebook.com/trageberatunglisareif/" target="_blank">
               <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="svg-inline--fa fa-facebook-f fa-w-10" viewBox="0 0 320 512">
                   <defs/>

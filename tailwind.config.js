@@ -132,6 +132,7 @@ module.exports = {
       '0': '0',
       auto: 'auto',
       '8' : '2rem',
+      '12' : '3rem',
       '16' : '4rem'
     },
     fontFamily: {

@@ -27,7 +27,7 @@
       </span>
       <!--Facebook-->
       <span class="mr-2">
-           <a href="https://www.instagram.com/trageberatung_lisa_reif/?hl=de" target="_blank">
+           <a href="https://www.facebook.com/trageberatunglisareif/" target="_blank">
               <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                      class="svg-inline--fa fa-facebook-f fa-w-10" viewBox="0 0 320 512">
