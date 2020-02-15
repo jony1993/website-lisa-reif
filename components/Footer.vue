@@ -2,7 +2,7 @@
   <div class="bg-footer text-center pb-4 pt-4 text-gray-700 mt-16">
     <!--Buttons-->
     <div class="m-auto text-center inline-block mb-2 flex justify-center">
-      <span class="mr-2">
+      <span class="mr-3">
             <a href="mailto:trageberatung-lisareif@gmx.de" rel="noopener" aria-label="E-Mail">
               <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
@@ -14,7 +14,7 @@
             </a>
       </span>
       <!--Instagram-->
-      <span class="mr-2">
+      <span class="mr-3">
            <a href="https://www.instagram.com/trageberatung_lisa_reif/?hl=de" target="_blank" rel="noopener" aria-label="Instagram">
               <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 448 512">
@@ -26,7 +26,7 @@
             </a>
       </span>
       <!--Facebook-->
-      <span class="mr-2">
+      <span class="mr-3">
            <a href="https://www.facebook.com/trageberatunglisareif/" target="_blank" rel="noopener" aria-label="Facebook">
               <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
@@ -43,11 +43,11 @@
     <!--Bottom-->
     <div>
       <span>
-        <nuxt-link to="/impressum">Impressum</nuxt-link>
+        <nuxt-link class="p-2" to="/impressum">Impressum</nuxt-link>
       </span>
       <span class="ml-2 mr-2">|</span>
       <span>
-        <nuxt-link to="/datenschutz">Datenschutzerklärung</nuxt-link>
+        <nuxt-link class="p-2" to="/datenschutz">Datenschutzerklärung</nuxt-link>
       </span>
     </div>
   </div>
