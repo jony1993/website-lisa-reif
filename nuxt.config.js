@@ -36,9 +36,14 @@ export default {
   ** Nuxt.js dev-modules
   */
   buildModules: [
-    // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
-    '@nuxtjs/tailwindcss',
+    '@nuxtjs/tailwindcss',// Doc: https://github.com/nuxt-community/nuxt-tailwindcss
+    '@bazzite/nuxt-optimized-images' //For optimizing images
   ],
+
+  optimizedImages: {
+    optimizeImages: true
+  },
+
   /*
   ** Nuxt.js modules
   */
