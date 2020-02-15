@@ -13,7 +13,8 @@
         <div class="">
           <img class="rounded-lg shadow-md" src="~/assets/img/tragetuch_sortiment.jpg">
           <h2 class="text-xl font-bold mt-4">Tragetücher</h2>
-          <a href="#tragetuecher" class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg ">
+          <a href="#tragetuecher"
+             class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg ">
             Mehr Infos >>
           </a>
         </div>
@@ -23,7 +24,8 @@
         <div class="">
           <img class="rounded-lg  shadow-md" src="~/assets/img/halfbuckle_sortiment.jpg">
           <h2 class="text-xl font-bold mt-4">Halfbuckle</h2>
-          <a href="#halfbuckle" class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg ">
+          <a href="#halfbuckle"
+             class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg ">
             Mehr Infos >>
           </a>
         </div>
@@ -33,7 +35,8 @@
         <div class="">
           <img class="rounded-lg shadow-md" src="~/assets/img/fullbuckle_sortiment.jpg">
           <h2 class="text-xl font-bold mt-4">Fullbuckle</h2>
-          <a href="#fullbuckle" class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg ">
+          <a href="#fullbuckle"
+             class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg ">
             Mehr Infos >>
           </a>
         </div>
@@ -43,7 +46,8 @@
         <div class="">
           <img class="rounded-lg shadow-md" src="~/assets/img/ringsling_sortiment.jpg">
           <h2 class="text-xl font-bold mt-4">Ringsling</h2>
-          <a href="#ringsling" class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg ">
+          <a href="#ringsling"
+             class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg ">
             Mehr Infos >>
           </a>
         </div>
@@ -80,6 +84,8 @@
         <li>Cybex Yema.Tie</li>
         <li>MySol Girasol</li>
         <li>Fidella FlyTai</li>
+        <li>Kokadi TaiTai</li>
+        <li>Fräulein Hübsch SoftTai</li>
       </ul>
     </section>
 
@@ -103,10 +109,27 @@
     <hr class="mt-16">
     <section id="ringsling" class="mt-16 font-body text-gray-700">
       <h2 class="text-4xl mb-2">Ringsling</h2>
-      <p> Der Ringsling ist aus Tragetuchstoff, der mit zwei Ringen versehen ist. Die Belastung hier ist jedoch
+      <p>Der Ringsling ist aus Tragetuchstoff, der mit zwei Ringen versehen ist. Die Belastung hier ist jedoch
         einseitig und somit eher für zwischendurch geeignet. Vorteil hier ist das schnelle Anlegen.</p>
+      <p class="font-bold mt-4">Mein Sortiment:</p>
       <ul>
-        <li>Ringsling: Limas, Fidella, Schmusewolke, Didymos</li>
+        <li>Limas</li>
+        <li>Fidella</li>
+        <li>Schmusewolke</li>
+        <li>Didymos</li>
+      </ul>
+    </section>
+
+    <!--Onbuhimo-->
+    <hr class="mt-16">
+    <section id="onbuhimo" class="mt-16 font-body text-gray-700">
+      <h2 class="text-4xl mb-2">Onbuhimo</h2>
+      <p>Ein Onbuhimo ist eine Tragehilfe ohne Hüftgurt, die meist auf dem Rücken getragen wird. Der Onbuhimo hat nur
+        ein kleines Packmaß und ist daher praktisch für unterwegs. Mit einem Onbuhimo kann man auch in der
+        Schwangerschaft tragen, da hier kein Hüftgurt drückt.</p>
+      <p class="font-bold mt-4">Mein Sortiment:</p>
+      <ul>
+        <li>Kokadi Onbu</li>
       </ul>
     </section>
   </div>
@@ -115,11 +138,11 @@
 <script>
   export default {
     name: 'sortiment',
-    head () {
+    head() {
       return {
-        title: "Sortiment - Trageberatung Lisa Reif"
+        title: 'Sortiment - Trageberatung Lisa Reif',
       }
-    }
+    },
   }
 </script>
 
