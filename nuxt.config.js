@@ -45,7 +45,9 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
-    'nuxt-webfontloader',
+    'nuxt-webfontloader', //for loading fonts
+    '@nuxtjs/robots' //for setting a valid robots.txt
+
   ],
 
   webfontloader: {
