@@ -5,6 +5,9 @@ export default {
   ** Headers of the page
   */
   head: {
+    htmlAttrs: {
+      lang: 'de'
+    },
     title: 'Trageberatung Lisa Reif',
     meta: [
       { charset: 'utf-8' },
@@ -22,7 +25,7 @@ export default {
   /*
   ** Global CSS
   */
-  css: [
+  css: [g
   ],
   /*
   ** Plugins to load before mounting the App

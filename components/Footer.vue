@@ -3,7 +3,7 @@
     <!--Buttons-->
     <div class="m-auto text-center inline-block mb-2 flex justify-center">
       <span class="mr-2">
-            <a href="mailto:trageberatung-lisareif@gmx.de">
+            <a href="mailto:trageberatung-lisareif@gmx.de" rel="noopener">
               <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
                   <defs/>
@@ -15,7 +15,7 @@
       </span>
       <!--Instagram-->
       <span class="mr-2">
-           <a href="https://www.instagram.com/trageberatung_lisa_reif/?hl=de" target="_blank">
+           <a href="https://www.instagram.com/trageberatung_lisa_reif/?hl=de" target="_blank" rel="noopener">
               <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 448 512">
                   <defs/>
@@ -27,7 +27,7 @@
       </span>
       <!--Facebook-->
       <span class="mr-2">
-           <a href="https://www.facebook.com/trageberatunglisareif/" target="_blank">
+           <a href="https://www.facebook.com/trageberatunglisareif/" target="_blank" rel="noopener">
               <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                      class="svg-inline--fa fa-facebook-f fa-w-10" viewBox="0 0 320 512">
