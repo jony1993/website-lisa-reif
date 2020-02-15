@@ -42,7 +42,7 @@
         <ul
           class="flex mt-4 lg:mt-0 -mx-4 pt-4 border-t flex-row items-center justify-center mx-0 ml-auto mt-0 pt-0 lg:border-0">
           <li class="mr-2">
-            <a href="mailto:trageberatung-lisareif@gmx.de">
+            <a href="mailto:trageberatung-lisareif@gmx.de" aria-label="E-Mail">
               <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
                   <defs/>
@@ -53,7 +53,7 @@
             </a>
           </li>
           <li class="mr-2">
-            <a href="https://www.instagram.com/trageberatung_lisa_reif/?hl=de" target="_blank" rel="noopener">
+            <a href="https://www.instagram.com/trageberatung_lisa_reif/?hl=de" target="_blank" rel="noopener" aria-label="Instagram">
               <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 448 512">
                   <defs/>
@@ -64,7 +64,7 @@
             </a>
           </li>
           <li>
-            <a href="https://www.facebook.com/trageberatunglisareif/" target="_blank" rel="noopener">
+            <a href="https://www.facebook.com/trageberatunglisareif/" target="_blank" rel="noopener" aria-label="Facebook">
               <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                      class="svg-inline--fa fa-facebook-f fa-w-10" viewBox="0 0 320 512">
