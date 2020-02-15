@@ -6,5 +6,6 @@
   font-family: 'Signatura';
   src: url('~assets/fonts/Signatura.ttf') format('truetype'),
   url('~assets/fonts/Signatura.otf') format('otf');
+  font-display: swap;
 }
 
