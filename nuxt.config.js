@@ -52,7 +52,7 @@ export default {
 
   webfontloader: {
     google: {
-      families: ['Lato:400,700&display=swap'] //Loads Lato font with weights 400 and 700
+      families: ['Lato:400,700'] //Loads Lato font with weights 400 and 700
     }
   },
   /*
