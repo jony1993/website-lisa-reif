@@ -1,6 +1,6 @@
 <template>
-  <nav class="bg-white shadow font-body text-gray-700" role="navigation">
-    <div class="container flex flex-wrap items-center justify-center lg:flex-no-wrap mx-auto p-4 pt-2 pb-2 relative">
+  <nav class="text-gray-700 bg-white shadow font-body" role="navigation">
+    <div class="container relative flex flex-wrap items-center justify-center p-4 pt-2 pb-2 mx-auto lg:flex-no-wrap">
       <div>
         <nuxt-link to="/">
           <img class="h-24 sm:h-32 md:h-32 lg:h-32 xl:h-32" src="../assets/img/logo.png"
@@ -9,41 +9,43 @@
       </div>
       <div class="absolute right-0 mr-4 top-8 sm:top-12 lg:hidden" @click="open= !open">
         <button class="flex items-center px-3 py-2 rounded" type="button">
-          <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+          <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
             <title>Menu</title>
             <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/>
           </svg>
         </button>
       </div>
       <div :class="open ? 'inline' : 'hidden'"
-           class="w-full lg:w-auto lg:flex-grow lg:flex lg:items-center text-center lg:text-left">
+           class="w-full text-center lg:w-auto lg:flex-grow lg:flex lg:items-center">
         <ul
-          class="flex flex-col mt-4 -mx-4 pt-4 border-t lg:flex-row lg:items-center lg:mx-0 lg:mt-0 lg:pt-0 lg:mr-8 lg:border-0">
+          class="flex flex-col pt-4 mt-4 -mx-4 border-t lg:flex-row lg:items-center lg:mx-0 lg:mt-0 lg:pt-0 lg:mr-8 lg:border-0">
           <li>
-            <nuxt-link class="block px-4 py-1 md:p-2 lg:px-4 hover:text-primary" to="/">Startseite</nuxt-link>
+            <nuxt-link class="block px-2 py-1 xl:px-4 md:p-2 hover:text-primary" to="/">Startseite</nuxt-link>
           </li>
           <li>
-            <nuxt-link class="block px-4 py-1 md:p-2 lg:px-4 hover:text-primary" to="/warum-tragen">Warum tragen?
-            </nuxt-link>
+            <nuxt-link class="block px-2 py-1 xl:px-4 md:p-2 hover:text-primary" to="/warum-tragen">Warum tragen?</nuxt-link>
           </li>
           <li>
-            <nuxt-link class="block px-4 py-1 md:p-2 lg:px-4 hover:text-primary" to="/ablauf">Ablauf</nuxt-link>
+            <nuxt-link class="block px-2 py-1 xl:px-4 md:p-2 hover:text-primary" to="/ablauf">Ablauf</nuxt-link>
           </li>
           <li>
-            <nuxt-link class="block px-4 py-1 md:p-2 lg:px-4 hover:text-primary" to="/sortiment">Sortiment</nuxt-link>
+            <nuxt-link class="block px-2 py-1 xl:px-4 md:p-2 hover:text-primary" to="/sortiment">Sortiment</nuxt-link>
           </li>
           <li>
-            <nuxt-link class="block px-4 py-1 md:p-2 lg:px-4 hover:text-primary" to="/preise">Preise</nuxt-link>
+            <nuxt-link class="block px-2 py-1 xl:px-4 md:p-2 hover:text-primary" to="/preise">Preise</nuxt-link>
           </li>
           <li>
-            <nuxt-link class="block px-4 py-1 md:p-2 lg:px-4 hover:text-primary" to="/ueber-mich">Über mich</nuxt-link>
+            <nuxt-link class="block px-2 py-1 xl:px-4 md:p-2 hover:text-primary" to="/ueber-mich">Über mich</nuxt-link>
+          </li>
+          <li>
+            <nuxt-link class="block px-2 py-1 xl:px-4 md:p-2 hover:text-primary" to="/kontakt">Kontakt</nuxt-link>
           </li>
         </ul>
         <ul
-          class="flex mt-4 lg:mt-0 -mx-4 pt-4 border-t flex-row items-center justify-center mx-0 ml-auto mt-0 pt-0 lg:border-0">
+          class="flex flex-row items-center justify-center pt-0 pt-4 mx-0 mt-0 mt-4 ml-auto -mx-4 border-t lg:mt-0 lg:border-0">
           <li class="mr-2">
             <a href="mailto:trageberatung-lisareif@gmx.de" aria-label="E-Mail">
-              <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
+              <div class="flex items-center justify-center w-12 h-12 border border-gray-400 rounded-full">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
                   <defs/>
                   <path fill="#707070"
@@ -54,7 +56,7 @@
           </li>
           <li class="mr-2">
             <a href="https://www.instagram.com/trageberatung_lisa_reif/?hl=de" target="_blank" rel="noopener" aria-label="Instagram">
-              <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
+              <div class="flex items-center justify-center w-12 h-12 border border-gray-400 rounded-full">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 448 512">
                   <defs/>
                   <path fill="#707070"
@@ -65,7 +67,7 @@
           </li>
           <li>
             <a href="https://www.facebook.com/trageberatunglisareif/" target="_blank" rel="noopener" aria-label="Facebook">
-              <div class="rounded-full h-12 w-12 flex items-center justify-center border border-gray-400">
+              <div class="flex items-center justify-center w-12 h-12 border border-gray-400 rounded-full">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                      class="svg-inline--fa fa-facebook-f fa-w-10" viewBox="0 0 320 512">
                   <defs/>
