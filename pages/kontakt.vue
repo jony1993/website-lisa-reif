@@ -152,6 +152,7 @@
             this.nameMsg = ''
             this.emailMsg = ''
             this.messageMsg = ''
+            this.phoneMsg = ''
             this.isLoading = false
             this.isSuccess = true
           }).catch((error) => {
