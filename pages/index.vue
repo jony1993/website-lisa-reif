@@ -11,6 +11,7 @@
           <p class="mt-4">Du hast bereits ein Tragetuch oder eine Tragehilfe, aber kommst nicht damit zurecht?</p>
           <p class="mt-4">Dann melde dich bei mir und wir finden gemeinsam in einer persönlichen Beratung die für Dich bzw. Euch perfekte
             Tragehilfe.</p>
+          <p class="mt-4">Jetzt neu: Du kannst selbstverständlich auch einen Gutschein bei mir kaufen. Ein super Geschenk zur Geburt oder Babyparty! <nuxt-link class="underline" to="/preise">Zu den Gutscheinen</nuxt-link></p>
         </div>
       </div>
 
