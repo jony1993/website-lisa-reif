@@ -55,7 +55,7 @@
         nicht m&ouml;glich.</p>
       <h3 class="font-bold text-xl mt-4">Hinweis zur verantwortlichen Stelle</h3>
       <p>Die verantwortliche Stelle f&uuml;r die Datenverarbeitung auf dieser Website ist:</p>
-      <p>Trageberatung Lisa Reif<br/>
+      <p>Trageberatung Lisa Berg<br/>
         Hoholtingerstr. 7<br/>
         94431 Pilsting / Gro&szlig;k&ouml;llnbach</p>
 
@@ -226,7 +226,7 @@
     name: 'privacy',
     head () {
       return {
-        title: "Datenschutz - Trageberatung Lisa Reif"
+        title: "Datenschutz - Trageberatung Lisa Berg"
       }
     }
   }

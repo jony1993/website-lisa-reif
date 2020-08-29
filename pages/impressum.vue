@@ -7,7 +7,7 @@
     <!--Content-->
     <div class="font-body text-gray-700">
       <h2 class="font-bold text-2xl">Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
-      <p>Lisa Reif<br/>
+      <p>Lisa Berg<br/>
         Trageberatung Lisa Reif<br/>
         Hoholtingerstr. 7<br/>
         94431 Pilsting</p>
