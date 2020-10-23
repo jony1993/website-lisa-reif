@@ -66,7 +66,7 @@
         Tragetuch kann man auch schwerere Kinder sehr gut tragen.</p>
       <p class="font-bold mt-4">Mein Sortiment:</p>
       <ul>
-        <li>Elastisch: Izmi, Hoppediz, Schmusewolke</li>
+        <li>Elastisch: Izmi, Hoppediz, Schmusewolke, Hänschenklein</li>
         <li>Gewebt: Didymos, Hoppediz, Fidella</li>
       </ul>
     </section>
@@ -86,6 +86,9 @@
         <li>Fidella FlyTai</li>
         <li>Kokadi TaiTai</li>
         <li>Fräulein Hübsch SoftTai</li>
+        <li>Fräulein Hübsch Wrapcon</li>
+        <li>Fräulein Hübsch SoftTai</li>
+        <li>Schmusewolke</li>
       </ul>
     </section>
 
@@ -102,6 +105,7 @@
         <li>Fidella Fusion</li>
         <li>Ruckeli Slim</li>
         <li>Manduca First</li>
+        <li>Didysnap</li>
       </ul>
     </section>
 

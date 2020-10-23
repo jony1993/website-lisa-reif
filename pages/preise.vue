@@ -44,8 +44,7 @@
       fühlst, trägst du dein Baby.
     </p>
     <p class="mt-4 text-gray-700 font-body">
-      Nachberatung per Whatsapp oder E-Mail kostenlos. Ab 5 Kilometern Entfernung fallen Fahrtkosten in Höhe von 0,30 €
-      pro Kilometer an. Berechnungsgrundlage ist Google Maps.
+      Nachberatung per Whatsapp oder E-Mail kostenlos. Bei einer Beratung bei Dir zuhause fallen Fahrtkosten in Höhe von 0,40 € pro Kilometer an. Berechnungsgrundlage ist Google Maps.
     </p>
     <p class="my-4 text-gray-700 font-body">
       Verleih von Tragehilfen bzw. Tragetüchern jederzeit für 10 € pro Woche möglich.
