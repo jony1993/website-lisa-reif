@@ -17,7 +17,7 @@
           <h2 class="text-xl font-bold">1. Telefonischer Kontakt</h2>
           <p>Du meldest dich über das Kontaktformular, per E-Mail oder per Telefon bei mir. Ich rufe dich dann zurück
             und gemeinsam gehen wir vorab ein paar Fragen durch. Hier kannst du mir u.a. mitteilen, ob bzw. welche
-            Tragen du schon Zuhause hast oder was du dir vorstellst. Wir vereinbaren einen Termin entweder bei dir oder
+            Tragen du schon Zuhause hast oder was du dir vorstellst. Wir vereinbaren einen Termin entweder bei dir (derzeit sind leider keine Hausbesuche möglich) oder
             bei mir Zuhause.</p>
         </div>
         <div class="bg-white rounded-lg shadow-md p-4 mt-4">
