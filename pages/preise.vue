@@ -1,36 +1,36 @@
 <template>
   <div class="container mt-8 text-center">
     <!--heading-->
-    <h1 class="text-5xl sm:text-6xl md:text-6xl lg:text-6xl xl:text-6xl z-10 font-heading">Preise</h1>
-    <img class="-mt-12 z-0 inline-block" src="~/assets/img/underline.png"/>
+    <h1 class="z-10 text-5xl sm:text-6xl md:text-6xl lg:text-6xl xl:text-6xl font-heading">Preise</h1>
+    <img class="z-0 inline-block -mt-12" src="~/assets/img/underline.png"/>
 
     <!--Price boxes-->
-    <div class="mt-4 flex flex-wrap -mx-4 overflow-hidden text-gray-700 font-body">
+    <div class="flex flex-wrap mt-4 -mx-4 overflow-hidden text-gray-700 font-body">
 
-      <div class="my-4 px-4 pb-2 w-full overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
-        <div class="flex flex-col mx-1 p-4 h-full bg-white shadow-md rounded-lg text-center">
-          <h2 class="text-2xl mb-2 font-bold">Einzelberatung</h2>
+      <div class="w-full px-4 pb-2 my-4 overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
+        <div class="flex flex-col h-full p-4 mx-1 text-center bg-white rounded-lg shadow-md">
+          <h2 class="mb-2 text-2xl font-bold">Einzelberatung</h2>
           <p>40 € pro Stunde. Die erste Stunde wird voll berechnet, anschließend erfolgt die Abrechnung viertelstündlich.</p>
           <p class="flex-grow">In der Regel dauert eine Erstberatung zwischen 1,5 und 2 Stunden. Der Preis für die Einzelberatung
             beinhaltet selbstverständlich auch die Anwesenheit eures Partners oder einer engen Bezugsperson.</p>
-          <nuxt-link class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg" to="/kontakt">Kontakt aufnehmen</nuxt-link>
+          <nuxt-link class="inline-block pt-2 pb-2 pl-4 pr-4 mt-4 rounded shadow-md bg-primary hover:shadow-lg" to="/kontakt">Kontakt aufnehmen</nuxt-link>
         </div>
       </div>
 
-      <div class="my-4 px-4 pb-2 w-full overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
-        <div class="flex flex-col mx-1 p-4 h-full bg-white shadow-md rounded-lg text-center">
-          <h2 class="text-2xl mb-2 font-bold">Gruppenberatung</h2>
+      <div class="w-full px-4 pb-2 my-4 overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
+        <div class="flex flex-col h-full p-4 mx-1 text-center bg-white rounded-lg shadow-md">
+          <h2 class="mb-2 text-2xl font-bold">Gruppenberatung</h2>
           <p class="flex-grow">Preise auf Anfrage. Ich erstelle dir gerne ein individuelles Angebot.</p>
-          <nuxt-link class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg " to="/kontakt">Kontakt aufnehmen</nuxt-link>
+          <nuxt-link class="inline-block pt-2 pb-2 pl-4 pr-4 mt-4 rounded shadow-md bg-primary hover:shadow-lg " to="/kontakt">Kontakt aufnehmen</nuxt-link>
         </div>
       </div>
 
-      <div class="my-4 px-4 pb-2 w-full overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
-        <div class="flex flex-col mx-1 p-4 h-full bg-white shadow-md rounded-lg text-center">
-          <h2 class="text-2xl mb-2 font-bold">Gutscheine</h2>
+      <div class="w-full px-4 pb-2 my-4 overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
+        <div class="flex flex-col h-full p-4 mx-1 text-center bg-white rounded-lg shadow-md">
+          <h2 class="mb-2 text-2xl font-bold">Gutscheine</h2>
           <p class="flex-grow">Du kannst selbstverständlich auch einen Gutschein bei mir kaufen. Ein super Geschenk zur Geburt oder
             Babyparty!</p>
-          <nuxt-link class="bg-primary inline-block mt-4 rounded shadow-md pt-2 pb-2 pr-4 pl-4 hover:shadow-lg " to="/kontakt">Kontakt aufnehmen</nuxt-link>
+          <nuxt-link class="inline-block pt-2 pb-2 pl-4 pr-4 mt-4 rounded shadow-md bg-primary hover:shadow-lg " to="/kontakt">Kontakt aufnehmen</nuxt-link>
         </div>
       </div>
 
@@ -44,7 +44,7 @@
       fühlst, trägst du dein Baby.
     </p>
     <p class="mt-4 text-gray-700 font-body">
-      Nachberatung per Whatsapp oder E-Mail kostenlos. Bei einer Beratung bei Dir zuhause fallen Fahrtkosten in Höhe von 0,40 € pro Kilometer an. Berechnungsgrundlage ist Google Maps.
+      Nachberatung per Whatsapp oder E-Mail kostenlos. Bei einer Beratung bei Dir zuhause fallen Fahrtkosten in Höhe von 0,50 € pro Kilometer an. Berechnungsgrundlage ist Google Maps.
     </p>
     <p class="my-4 text-gray-700 font-body">
       Verleih von Tragehilfen bzw. Tragetüchern jederzeit für 10 € pro Woche möglich.
