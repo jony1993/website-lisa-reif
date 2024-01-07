@@ -10,7 +10,7 @@
       <div class="w-full px-4 pb-2 my-4 overflow-hidden sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3">
         <div class="flex flex-col h-full p-4 mx-1 text-center bg-white rounded-lg shadow-md">
           <h2 class="mb-2 text-2xl font-bold">Einzelberatung</h2>
-          <p>40 € pro Stunde. Die erste Stunde wird voll berechnet, anschließend erfolgt die Abrechnung viertelstündlich.</p>
+          <p>50 € pro Stunde. Die erste Stunde wird voll berechnet, anschließend erfolgt die Abrechnung viertelstündlich.</p>
           <p class="flex-grow">In der Regel dauert eine Erstberatung zwischen 1,5 und 2 Stunden. Der Preis für die Einzelberatung
             beinhaltet selbstverständlich auch die Anwesenheit eures Partners oder einer engen Bezugsperson.</p>
           <nuxt-link class="inline-block pt-2 pb-2 pl-4 pr-4 mt-4 rounded shadow-md bg-primary hover:shadow-lg" to="/kontakt">Kontakt aufnehmen</nuxt-link>

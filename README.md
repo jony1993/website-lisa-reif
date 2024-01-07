@@ -6,13 +6,13 @@
 
 ``` bash
 # install dependencies
-$ npm run install
+$ npm install
 
 # serve with hot reload at localhost:3000
-$ npm run dev
+$ npm dev
 
 # generate static project
-$ npm run generate
+$ npm generate
 
 # install firebase cli
 $ npm install -g firebase-tools
